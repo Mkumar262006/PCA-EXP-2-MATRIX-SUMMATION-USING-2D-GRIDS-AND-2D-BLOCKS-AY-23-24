@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/387822a6-a8c4-45b8-a8d2-167bb730a779)# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+
 
 <h3>NAME : MANOJ KUMAR S</h3>
 <h3>REGISTER NO: 212223240082</h3>
